@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jyotirmoy!
 
-A passionate student developer, always exploring new tech and building things I love. I enjoy working across the stack, from backend to AI, and love collaborating on open-source projects.
+A recent graduate and passionate developer, excited to start my professional journey in tech. I love exploring new technologies, building impactful projects, and collaborating on open-source. Soon, I'll be joining a company to further grow my skills and contribute to real-world solutions.
 
 - 🚀 Currently learning: Advanced Machine Learning, AI, and scalable backend systems
 - 💡 Interests: Full-stack development, AI/ML, open-source, and creative coding
