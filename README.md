@@ -47,15 +47,15 @@ A recent graduate and passionate developer, excited to start my professional jou
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=eskgalio&theme=radical&hide_border=false&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=eskgalio&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eskgalio&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jyotirmoy-dutta&theme=radical&hide_border=false&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoy-dutta&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoy-dutta&theme=radical&hide_border=false&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=eskgalio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jyotirmoy-dutta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
