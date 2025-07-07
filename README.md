@@ -3,21 +3,6 @@
 <p align="center"><b>Full-Stack Developer | ML Enthusiast | Future IT Tech Associate | India 🇮🇳</b></p>
 <p align="center">Building impactful, research-driven, and visually elegant solutions for the real world.</p>
 
----
-
-<!-- QUICK LINKS -->
-<p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#education">Education</a> •
-  <a href="#career--professional-outlook">Career</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#github-stats">GitHub Stats</a> •
-  <a href="#contact">Contact</a>
-</p>
-
----
-
 <!-- CONTACT BADGES -->
 <p align="center">
   <a href="mailto:jyotirmoy427@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
