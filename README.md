@@ -1,8 +1,4 @@
 <!-- HERO SECTION -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102212427?v=4" width="120" style="border-radius:50%" alt="Jyotirmoy Dutta Avatar"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#7f5af0">Jyotirmoy Dutta</span>!</h1>
 <p align="center"><b>Full-Stack Developer | ML Enthusiast | Future IT Tech Associate | India 🇮🇳</b></p>
 <p align="center">Building impactful, research-driven, and visually elegant solutions for the real world.</p>
