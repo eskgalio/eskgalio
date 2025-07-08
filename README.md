@@ -23,7 +23,7 @@
 - **Full Name:** Jyotirmoy Dutta
 - **Email:** jyotirmoy427@gmail.com
 - **Phone:** +91 8240919170
-- **GitHub:** [github.com/eskgalio](https://github.com/jyotirmoy-dutta)
+- **GitHub:** [github.com/jyotirmoy-dutta](https://github.com/jyotirmoy-dutta)
 - **LinkedIn:** [linkedin.com/in/jyotirmoy-dutta-838088300](https://linkedin.com/in/jyotirmoy-dutta-838088300)
 - **Location:** India 🇮🇳 (Timezone: IST +05:30)
 
